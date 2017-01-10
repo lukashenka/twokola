@@ -1,0 +1,21 @@
+.pl_pages { }
+.pl_cloud { margin:1.5em 2em 3em 2em; }
+.pl_cloud a { margin-left: 8px; margin-right: 8px; }
+/* category anchors list container */
+.pl_contents { margin:1.5em 2em 3em 2em; }
+/* category title */
+.pl_cat_title { margin: 1em 0 0.5em 0; font-size: 1.2em; }
+/* prefix for category title */
+.pl_prefix { color:silver; }
+/* posts counter in category title */
+.pl_cnt { color:silver; }
+/* posts list */
+.pl_postlist ul {  }
+.pl_postlist ul li { background-image: none; text-indent: 15px; }
+/* post date */
+.pl_date { color:silver; }
+/* "view all" links for tag cloud and post lists */
+.pl_expand { font-size:0.8em; }
+.pl_expand a, .pl_expand a:visited { color:gray; }
+.pl_cloud .pl_expand { margin:1em 0 0 0; }
+.pl_postlist .pl_expand { margin:1em 0 2em 2em; }
